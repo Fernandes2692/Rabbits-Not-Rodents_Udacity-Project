@@ -1,6 +1,6 @@
 ## Udacity-DS-Project-1
 
-![](images/rabbit_not_rodent.png)
+![](images/rabbit_not_rodent.png) 
 
 This project is the first of four, part of the Udacity Data Scientist Nanodegree. 
 
