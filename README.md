@@ -20,7 +20,9 @@ Highlighting the impact of an unsuitable diet and poor nutrition on one of the U
 ### Abstract:
 To-date pet shops in the UK and world-wide continue to sell inappropriate treats and muesli advertised for rabbits which have a negative effect on their health leading to primary and secondary disorders to include but not limited to, dental disease, obesity, and flystrike. Moreover, many treats and muesli foodstuffs depict rabbits together with rodents including guinea pigs and hamsters despite being of a different order, what they eat and how food is processed in their digestive system. The continued collating of rabbits with rodents to the same dietary requirements causes harm to pet rabbits. 
 
-                                 The tabular dataset can be found in the CSV folder
+                                 - The tabular dataset can be found in the data folder -
+                              - The code and analysis can be found in the notebook folder -
+                                     - A blog has been written and put up on Medium -
 
 The data in this project is based on research by O'Neill, D. G. in "Morbidity and Mortality of Domestic Rabbits (Oryctolagus cuniculus) Under Primary Veterinary Care in England in 2013" https://rvc-repository.worktribe.com/output/1382109/morbidity-and-mortality-of-domestic-rabbits-oryctolagus-cuniculus-under-primary-veterinary-care-in-england-in-2013 
 
