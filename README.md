@@ -31,7 +31,7 @@ The data in this project is based on research by O'Neill, D. G. in "Morbidity an
 1. Is there a relationship between rabbit breed, sex, and disorders?
 2. Is there a relationship between unneutered-related disorders?
 3. What are the most common disorders occurring in rabbits?
-4. Which common disorder(s) are related to an improper diet. 
+4. Which common disorder(s) are related to an improper diet/overconsumption?
 
 
 <br/>
