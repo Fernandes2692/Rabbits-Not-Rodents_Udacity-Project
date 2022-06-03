@@ -23,7 +23,7 @@ To-date pet shops in the UK and world-wide continue to sell inappropriate treats
                                  - The tabular dataset can be found in the data folder -
                               - The code and analysis can be found in the notebook folder -
                                      - A blog has been written and put up on Medium -
-
+                                     
 The data in this project is based on research by O'Neill, D. G. in "Morbidity and Mortality of Domestic Rabbits (Oryctolagus cuniculus) Under Primary Veterinary Care in England in 2013" https://rvc-repository.worktribe.com/output/1382109/morbidity-and-mortality-of-domestic-rabbits-oryctolagus-cuniculus-under-primary-veterinary-care-in-england-in-2013 
 
 <br/>
@@ -45,3 +45,6 @@ The following libraries are used:
 -  Matplotlib 
 -  Seaborn
 
+<br/>
+
+Check out my first blog: :rabbit: https://medium.com/@laurafernandes_32018/rabbits-rodents-fd2436d408e8 :rabbit:
