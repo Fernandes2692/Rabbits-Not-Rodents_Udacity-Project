@@ -1,4 +1,4 @@
-## Udacity-DS-Project-1
+## Investigating diet-related disorders in domestic pet rabbits following CRISP-DM process
 
 
 ![](images/rabbit_not_rodent.png) 
