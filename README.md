@@ -1,8 +1,8 @@
 ## Investigating diet-related disorders in domestic pet rabbits following CRISP-DM process
 
-
-![](images/rabbit_not_rodent.png) 
-
+<p align="center" width="100%">
+   <img src="images/rabbit_not_rodent.png" width="600">
+</p>
 
 --- 
 
